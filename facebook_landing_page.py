@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-
+# get facebook landingpage videos list
 class FbSpider(object):
     """docstring for FbSpilder"""
     email = 'user name'
